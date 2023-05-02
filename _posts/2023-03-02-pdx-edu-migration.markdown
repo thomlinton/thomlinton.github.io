@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "pdx.edu AWS Archiecture and Migration Overview"
+title:  "pdx.edu AWS Architecture and Migration Overview"
 date:   2023-03-02 13:00:00 -0700
 categories: wdt aws pdx-edu
 ---
